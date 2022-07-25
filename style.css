@@ -1,0 +1,25 @@
+.width {
+    width: 35%
+}
+
+.icon {
+    color: blue;
+}
+
+.hover {
+    transition: 1s;
+    margin-top: -10px;
+}
+
+.hover:hover {
+    transform: scale(1.1);
+}
+
+.f-height {
+    height: 200px;
+    padding-top: 100px;
+}
+
+/* .hover-customize {
+    transform: scale(1.1);
+} */
